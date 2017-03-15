@@ -12,6 +12,10 @@
     "truthy",
     "falsy"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MikeyBurkman/chai-truthy.git"
+  },
   "author": "MikeyBurkman",
   "license": "MIT",
   "devDependencies": {
